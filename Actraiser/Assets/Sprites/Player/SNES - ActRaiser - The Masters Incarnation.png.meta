@@ -1,0 +1,1074 @@
+fileFormatVersion: 2
+guid: c80e16cbedb5e5e41be3c80666ad11c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2827414097815094418
+    second: FrozenPose_Player
+  - first:
+      213: -4987868086520923820
+    second: Idle_Player
+  - first:
+      213: 2179013472438659276
+    second: SNES - ActRaiser - The Masters Incarnation_2
+  - first:
+      213: 4030605362098796557
+    second: SNES - ActRaiser - The Masters Incarnation_3
+  - first:
+      213: 1597438677595797183
+    second: SNES - ActRaiser - The Masters Incarnation_4
+  - first:
+      213: -1737726715848341086
+    second: SNES - ActRaiser - The Masters Incarnation_5
+  - first:
+      213: -4916474436096873139
+    second: SNES - ActRaiser - The Masters Incarnation_6
+  - first:
+      213: -3094788213383111252
+    second: SNES - ActRaiser - The Masters Incarnation_7
+  - first:
+      213: 1195112754547243921
+    second: SNES - ActRaiser - The Masters Incarnation_8
+  - first:
+      213: 6448251134868793124
+    second: SNES - ActRaiser - The Masters Incarnation_9
+  - first:
+      213: -9004002154043099896
+    second: SNES - ActRaiser - The Masters Incarnation_10
+  - first:
+      213: -5566515088703818112
+    second: SNES - ActRaiser - The Masters Incarnation_11
+  - first:
+      213: 4683836586025726762
+    second: SNES - ActRaiser - The Masters Incarnation_12
+  - first:
+      213: -2237175201120106277
+    second: SNES - ActRaiser - The Masters Incarnation_13
+  - first:
+      213: 8864063415375269725
+    second: SNES - ActRaiser - The Masters Incarnation_14
+  - first:
+      213: -5519372865310676823
+    second: SNES - ActRaiser - The Masters Incarnation_15
+  - first:
+      213: -6804747331141967086
+    second: StandingJump_Player
+  - first:
+      213: -4715970059174017243
+    second: Falling_Player
+  - first:
+      213: -7856223965844955192
+    second: SNES - ActRaiser - The Masters Incarnation_18
+  - first:
+      213: -1195429164904223134
+    second: SNES - ActRaiser - The Masters Incarnation_19
+  - first:
+      213: -8589215705981325801
+    second: SNES - ActRaiser - The Masters Incarnation_20
+  - first:
+      213: 4540665983185743969
+    second: SNES - ActRaiser - The Masters Incarnation_21
+  - first:
+      213: -4809920555983744935
+    second: SNES - ActRaiser - The Masters Incarnation_22
+  - first:
+      213: 320523264364646522
+    second: LeaningJump_Player
+  - first:
+      213: 5550099530871005463
+    second: MovingWhileFalling_Player
+  - first:
+      213: -4005470475724503409
+    second: SNES - ActRaiser - The Masters Incarnation_25
+  - first:
+      213: -1519343485931906631
+    second: SNES - ActRaiser - The Masters Incarnation_26
+  - first:
+      213: 4044564017717159313
+    second: SNES - ActRaiser - The Masters Incarnation_27
+  - first:
+      213: -1630938510796693000
+    second: SNES - ActRaiser - The Masters Incarnation_28
+  - first:
+      213: -4008792377263257643
+    second: SNES - ActRaiser - The Masters Incarnation_29
+  - first:
+      213: -4298817871493848804
+    second: The Masters Incarnation Walk 0
+  - first:
+      213: 9084933823277374112
+    second: The Masters Incarnation Walk 1
+  - first:
+      213: -4407925869868773695
+    second: The Masters Incarnation Walk 2
+  - first:
+      213: -7384271126238995144
+    second: The Masters Incarnation Walk 3
+  - first:
+      213: -1603120022048110890
+    second: SNES - ActRaiser - The Masters Incarnation_34
+  - first:
+      213: -6461380747276609554
+    second: SNES - ActRaiser - The Masters Incarnation_35
+  - first:
+      213: -6454765933661297358
+    second: SNES - ActRaiser - The Masters Incarnation_36
+  - first:
+      213: -711403680679740025
+    second: SNES - ActRaiser - The Masters Incarnation_37
+  - first:
+      213: 3677864135758264201
+    second: SNES - ActRaiser - The Masters Incarnation_38
+  - first:
+      213: -604733508394431005
+    second: SNES - ActRaiser - The Masters Incarnation_39
+  - first:
+      213: 3853783564376240990
+    second: SNES - ActRaiser - The Masters Incarnation_40
+  - first:
+      213: -6249465635070633440
+    second: SNES - ActRaiser - The Masters Incarnation_41
+  - first:
+      213: -8544138318697488764
+    second: SNES - ActRaiser - The Masters Incarnation_42
+  - first:
+      213: 7278060744925242046
+    second: SNES - ActRaiser - The Masters Incarnation_43
+  - first:
+      213: -1976592074787763783
+    second: SNES - ActRaiser - The Masters Incarnation_44
+  - first:
+      213: 9076487210866442731
+    second: SNES - ActRaiser - The Masters Incarnation_45
+  - first:
+      213: -3495928330082119160
+    second: SNES - ActRaiser - The Masters Incarnation_46
+  - first:
+      213: -7609972288904352229
+    second: SNES - ActRaiser - The Masters Incarnation_47
+  - first:
+      213: -5289193638900938405
+    second: SNES - ActRaiser - The Masters Incarnation_48
+  - first:
+      213: -5383556664169139513
+    second: SNES - ActRaiser - The Masters Incarnation_49
+  - first:
+      213: 6598687772822039902
+    second: SNES - ActRaiser - The Masters Incarnation_50
+  - first:
+      213: -5296454753585843542
+    second: SNES - ActRaiser - The Masters Incarnation_51
+  - first:
+      213: 3612548037921868067
+    second: SNES - ActRaiser - The Masters Incarnation_52
+  - first:
+      213: 369970659601005070
+    second: SNES - ActRaiser - The Masters Incarnation_53
+  - first:
+      213: -3066215500430910076
+    second: SNES - ActRaiser - The Masters Incarnation_54
+  - first:
+      213: 4073729317748603300
+    second: SNES - ActRaiser - The Masters Incarnation_55
+  - first:
+      213: -4113699617552749011
+    second: SNES - ActRaiser - The Masters Incarnation_56
+  - first:
+      213: 7524718071683911201
+    second: SNES - ActRaiser - The Masters Incarnation_57
+  - first:
+      213: 2573762404102480845
+    second: SNES - ActRaiser - The Masters Incarnation_58
+  - first:
+      213: -2060569492655002631
+    second: SNES - ActRaiser - The Masters Incarnation_59
+  - first:
+      213: -5171172576027305829
+    second: SNES - ActRaiser - The Masters Incarnation_60
+  - first:
+      213: 2586129120614721870
+    second: SNES - ActRaiser - The Masters Incarnation_61
+  - first:
+      213: -2896811120088677186
+    second: SNES - ActRaiser - The Masters Incarnation_62
+  - first:
+      213: -9117160069950111550
+    second: SNES - ActRaiser - The Masters Incarnation_63
+  - first:
+      213: -2086887743620222518
+    second: SNES - ActRaiser - The Masters Incarnation_64
+  - first:
+      213: -8263562035962575683
+    second: SNES - ActRaiser - The Masters Incarnation_65
+  - first:
+      213: -686602137317283143
+    second: SNES - ActRaiser - The Masters Incarnation_66
+  - first:
+      213: -8666063637312683301
+    second: SNES - ActRaiser - The Masters Incarnation_67
+  - first:
+      213: -3473972236598267597
+    second: SNES - ActRaiser - The Masters Incarnation_68
+  - first:
+      213: -8821707518030525322
+    second: SNES - ActRaiser - The Masters Incarnation_69
+  - first:
+      213: -6391411020980047350
+    second: SNES - ActRaiser - The Masters Incarnation_70
+  - first:
+      213: 9057910176332872579
+    second: SNES - ActRaiser - The Masters Incarnation_71
+  - first:
+      213: 3831862088985495128
+    second: SNES - ActRaiser - The Masters Incarnation_72
+  - first:
+      213: 6585636811319746056
+    second: SNES - ActRaiser - The Masters Incarnation_73
+  - first:
+      213: -7164889449228921247
+    second: SNES - ActRaiser - The Masters Incarnation_74
+  - first:
+      213: -2753987861679917664
+    second: SNES - ActRaiser - The Masters Incarnation_75
+  - first:
+      213: -85837511438274911
+    second: SNES - ActRaiser - The Masters Incarnation_76
+  - first:
+      213: 8199829666166974629
+    second: SNES - ActRaiser - The Masters Incarnation_77
+  - first:
+      213: 2185458396615257063
+    second: SNES - ActRaiser - The Masters Incarnation_78
+  - first:
+      213: 8332721744719440924
+    second: SNES - ActRaiser - The Masters Incarnation_79
+  - first:
+      213: -3813934800146125902
+    second: SNES - ActRaiser - The Masters Incarnation_80
+  - first:
+      213: -3092625018062451708
+    second: SNES - ActRaiser - The Masters Incarnation_81
+  - first:
+      213: 473707170191396476
+    second: SNES - ActRaiser - The Masters Incarnation_82
+  - first:
+      213: -4354543827080752362
+    second: SNES - ActRaiser - The Masters Incarnation_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 38
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrozenPose_Player
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 302
+        width: 20
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bbccabbd103c8d0800000000000000
+      internalID: -2827414097815094418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Player
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 325
+        width: 23
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459b964f66887cab0800000000000000
+      internalID: -4987868086520923820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 324
+        width: 22
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc82f7155396d3e10800000000000000
+      internalID: 2179013472438659276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 324
+        width: 56
+        height: 64
+      alignment: 9
+      pivot: {x: 0.54768914, y: 0.0040836334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08fea5c8369fe730800000000000000
+      internalID: 4030605362098796557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 324
+        width: 56
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5483071, y: 0.008524759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb63190830e3b2610800000000000000
+      internalID: 1597438677595797183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 324
+        width: 55
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5376126, y: 0.010157159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9472142ca52e7e0800000000000000
+      internalID: -1737726715848341086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 324
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.43281183, y: 0.010157159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d28298c8c25cbb0800000000000000
+      internalID: -4916474436096873139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 269
+        width: 24
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caddb3e448a1d05d0800000000000000
+      internalID: -3094788213383111252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 269
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bb351e7b4e59010800000000000000
+      internalID: 1195112754547243921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 269
+        width: 45
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4272d5c2e3acc7950800000000000000
+      internalID: 6448251134868793124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 269
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805b8630fbb5b0380800000000000000
+      internalID: -9004002154043099896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 269
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086f4fcf404cfb2b0800000000000000
+      internalID: -5566515088703818112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 294
+        width: 21
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ba081f84500140800000000000000
+      internalID: 4683836586025726762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 269
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd84ce4f105f3f0e0800000000000000
+      internalID: -2237175201120106277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_14
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 269
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f8af366ba730b70800000000000000
+      internalID: 8864063415375269725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 195
+        width: 20
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82a343f9f3763b0800000000000000
+      internalID: -5519372865310676823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandingJump_Player
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 186
+        width: 23
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213eefcfa5ea091a0800000000000000
+      internalID: -6804747331141967086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falling_Player
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 186
+        width: 22
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5270e8ba7328d8eb0800000000000000
+      internalID: -4715970059174017243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 186
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf96e75de519f290800000000000000
+      internalID: -7856223965844955192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 186
+        width: 45
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eedb7128bf86fe0800000000000000
+      internalID: -1195429164904223134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 186
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee6c1b2d9fcc880800000000000000
+      internalID: -8589215705981325801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_21
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 186
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1607c7b77afa30f30800000000000000
+      internalID: 4540665983185743969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 108
+        width: 32
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9505db60dbabf3db0800000000000000
+      internalID: -4809920555983744935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeaningJump_Player
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 108
+        width: 23
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7014b2f53ab27400800000000000000
+      internalID: 320523264364646522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingWhileFalling_Player
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 108
+        width: 22
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711e0ad1e1ae50d40800000000000000
+      internalID: 5550099530871005463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 108
+        width: 49
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86402003d5b968c0800000000000000
+      internalID: -4005470475724503409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 108
+        width: 49
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9993d36253aeae0800000000000000
+      internalID: -1519343485931906631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_27
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 108
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ab5b8b8d212830800000000000000
+      internalID: 4044564017717159313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 108
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f16575c01ebd59e0800000000000000
+      internalID: -1630938510796693000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - ActRaiser - The Masters Incarnation_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 27
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d70ee68298ed58c0800000000000000
+      internalID: -4008792377263257643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Masters Incarnation Walk 0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 27
+        width: 23
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1122870ce78754c0800000000000000
+      internalID: -4298817871493848804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Masters Incarnation Walk 1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 27
+        width: 24
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa1160ad2b241e70800000000000000
+      internalID: 9084933823277374112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Masters Incarnation Walk 2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 27
+        width: 23
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce873a86c6e3d2c0800000000000000
+      internalID: -4407925869868773695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Masters Incarnation Walk 3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 27
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dd953c88cc58990800000000000000
+      internalID: -7384271126238995144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
